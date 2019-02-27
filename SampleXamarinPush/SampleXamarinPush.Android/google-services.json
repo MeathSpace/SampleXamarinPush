@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "694528475235",
+    "firebase_url": "https://samplexamarinpush.firebaseio.com",
+    "project_id": "samplexamarinpush",
+    "storage_bucket": "samplexamarinpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694528475235:android:77c8dae3eb1a5c1b",
+        "android_client_info": {
+          "package_name": "com.companyname.SampleXamarinPush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694528475235-4cpf5k9gkbm67qi1n4bdc4ted616ogu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bUiothgPJWBqmusiFlz2CtQ4bXmMQvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
